@@ -4,6 +4,7 @@
   <groupId>com.infy</groupId>
   <artifactId>SpringEar</artifactId>
   <packaging>ear</packaging>
+  <version>1.0</version>
   <name>Spring EAR</name>
 
   <build>
