@@ -21,7 +21,7 @@ public class InsertDaoTest {
 	
 	@Test
 	public void testInsertShop(){
-		System.out.println("------testInsertShop------");
+		
 		Shop shop = new Shop();
 		new InsertDAOImpl().insertShop(shop);
 		
