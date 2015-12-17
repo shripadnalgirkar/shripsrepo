@@ -23,7 +23,8 @@ public class InsertDaoTest {
 	public void testInsertShop(){
 		System.out.println("------testInsertShop------");
 		Shop shop = new Shop();
-		new InsertDAOImpl().insertShop(shop);		
+		new InsertDAOImpl().insertShop(shop);
+		System.out.println("------end --testInsertShop------");
 		Assert.assertEquals("1", "1");
 	}
 }
