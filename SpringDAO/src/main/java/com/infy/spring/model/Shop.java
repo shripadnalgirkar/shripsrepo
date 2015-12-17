@@ -13,7 +13,7 @@ public class Shop {
 		this.id = id;
 	}
 	public String getName() {
-	System.out.println("------getName------");
+	
 		return name;
 	}
 	public void setName(String name) {
