@@ -16,7 +16,7 @@ public class InsertDaoTest {
 		System.out.println("------testGetShop------");
 		Shop shop=new InsertDAOImpl().getShop("test");		
 		Assert.assertEquals("Shop 1", shop.getId());
-		System.out.println("------end --testGetShop------");
+		
 	}
 	
 	@Test
