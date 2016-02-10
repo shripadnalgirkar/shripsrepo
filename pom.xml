@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.infy</groupId>
   <artifactId>parent-pom</artifactId>
-  <packaging>pom</packaging>
+  <packaging>pom</packaging> 
   <name>Spring</name>	
   <version>1.0</version> 
 
