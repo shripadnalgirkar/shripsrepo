@@ -6,7 +6,7 @@
   <artifactId>parent-pom</artifactId>
   <packaging>pom</packaging>
   <name>Spring</name>	
-  <version>1.0</version>
+  <version>1.0</version> 
 
  <modules>
 	<module>SpringDAO</module>
